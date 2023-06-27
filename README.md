@@ -5,7 +5,7 @@
 -     Python (Django, Machin Learning)
 -     JavaScript ( react [native, js], Front-End, Back_End [Node.Js])
 -     Html, CSS
--     C++, c <-- as satarting languages.
+-     C++, c 
 - 📫 you can contect me by bharat2901parmar@gmail.com
 
 <!---
