@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @BharatParmarr.
-- 💻 i am self thought programer who love to code.
-- 👀 I’m interested in devlopment.
-- 🌱 I’m currently learning full stake web devlopment.
+- 💻 Self thought programer.
+- 👀 Developer, learner, curious obout everything. 
+- 🌱 Full stake web_devloper.
+-     Python (Django, Machin Learning)
+-     JavaScript ( react [native, js], Front-End, Back_End [Node.Js])
+-     Html, CSS
+-     C++, c <-- as satarting languages.
 - 📫 you can contect me by bharat2901parmar@gmail.com
 
 <!---
