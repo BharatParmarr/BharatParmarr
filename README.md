@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on my start up Migmind<br>🌱 I’m currently Building some Machine Learning Projects.<br>💬 Ask me about web devlopment<br> Ask me something I dont know and that will be ready tomorow.
+🔭 I am currently working on my start up Migmind<br>🌱 I’m currently Building some Machine Learning Projects.<br>💬 Ask me about web devlopment<br> Ask me something I dont know and that will be ready tomorrow.
 
 
 ## 🌐 Socials:
